@@ -205,11 +205,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>"Locked out of my computer" Ticket</h3>
 
 <p>
-26. 
+26. Log out of john.doe and log back in as jane.doe. Go into the ticket "Locked out of my computer".
 </p>
 
+<p>
+27. Repeat steps 12-15 for this ticket, the priority should be "Normal", the Department should be "Support", the ticket should be assigned to John Doe, and the SLA Plan should be SEV-C.
+</p>
+<p>
+<img width="960" alt="Screen Shot 2023-11-19 at 6 50 01 PM" src="https://github.com/Gleejr/ticket-lifecycle/assets/148407820/e9e9fd4a-52ef-400c-99b3-ad1b1aef7d2a">
+</p>
 
+<p>
+28. Since this ticket is being assigned to John Doe (Not Jane Doe the user currently logged in), scroll down to post a a respone "Re-assigned to SEV-C, reached out to John Doe for a warm handoff." Click post reply.
+</p>
+<p>
+<img width="952" alt="Screen Shot 2023-11-19 at 6 55 05 PM" src="https://github.com/Gleejr/ticket-lifecycle/assets/148407820/90667ade-59c4-4305-b2c9-9d6101c30acc">
+</p>
 
+<p>
+29. Logout of jane.doe and login as john.doe. Go back into the ticket just assigned to john.doe.
+</p>
+
+<p>
+30. Scroll down to leave a response "User account is now unlocked. User will be prompted to change their password next time they login." Change ticket status to resolved and click post reply. 
+</p>
+<p>
+<img width="954" alt="Screen Shot 2023-11-19 at 6 59 07 PM" src="https://github.com/Gleejr/ticket-lifecycle/assets/148407820/5bc3c601-c0b1-44f9-91ae-656dda100941">
+</p>
 
 
 
